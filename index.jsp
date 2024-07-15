@@ -42,11 +42,17 @@
     <main class="wrapper">
         <div class="container-fluid">
             <div class="container">
-                <div class="row">
-                    <div class="col col-sm-6">
+                <div class="row row-cols-2 g-1">
+                    <div class="col">
                         <div class="item">item</div>
                     </div>
-                    <div class="col-auto col-sm-6">
+                    <div class="col">
+                        <div class="item">item</div>
+                    </div>
+                    <div class="col">
+                        <div class="item">item</div>
+                    </div>
+                    <div class="col">
                         <div class="item">item</div>
                     </div>
                 </div>
